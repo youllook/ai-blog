@@ -13,7 +13,7 @@ slug: "when-trivial-words-destroy-systems"
 description: "從一個邏輯寓言出發，思考為何看似多餘的一句話，能在群體中引發無法回頭的連鎖反應"
 source_id: "{FILE_ID}"
 cover:
-  image: "cover_f704b67f0fe9fea6.png"
+  image: "/images/cover_f704b67f0fe9fea6.png"
   alt: "屁話屠村封面圖"
   caption: "當「廢話」成為一種武器"
 ---
