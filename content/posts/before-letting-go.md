@@ -1,6 +1,6 @@
 ---
 title: "放下之前"
-date: "2026-01-24"
+date: "2026-01-23"
 categories:
   - 日記
 tags:
