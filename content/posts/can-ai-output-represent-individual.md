@@ -1,3 +1,4 @@
+---
 title: "AI 產出的內容，能代表個人嗎？"
 date: "2026-01-24"
 categories:
@@ -10,8 +11,13 @@ tags:
   - 思想代表
 slug: "can-ai-output-represent-individual"
 description: "在生成式 AI 盛行的時代，我們是否仍然能為自己說出的話負責？本文嘗試釐清 AI 產出與個人思想之間真正的分界線。"
-
+cover:
+  image: "/ai-blog/images/cover_can-ai-output-represent-individual.png"
+  alt: "AI 產出的內容，能代表個人嗎？"
+  caption: "AI 產出的內容，能代表個人嗎？"
 ---
+
+# AI 產出的內容，能代表個人嗎？
 
 生成式 AI 變得越來越強，我們也越來越常遇到這個問題：
 
