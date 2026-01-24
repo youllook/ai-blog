@@ -1,6 +1,6 @@
 ---
 title: "放下之前"
-date: "2026-01-23"
+date: "2026-01-24"
 categories:
   - 日記
 tags:
@@ -11,7 +11,10 @@ tags:
   - AI焦慮
 slug: "before-letting-go"
 description: "當期待沒有被承接時，人會如何把重量一層層收回自己身上"
-source_id: "{FILE_ID}"
+cover:
+  image: "/ai-blog/images/cover_before-letting-go.png"
+  alt: "放下之前"
+  caption: "我希望我是那棵大樹"
 ---
 
 我開始學 AI 的那段時間，幾乎是被整個世界翻轉過來。
