@@ -13,3 +13,6 @@ hugo
 
 # NodeJS
 node_modules/
+
+# local tooling
+.claude/
